@@ -1,6 +1,8 @@
 "use strict";
 
 function myFunc5(string) {
+  "use strict";
+
   let str = "";
   let num = 0;
   let arr = string.split("");
